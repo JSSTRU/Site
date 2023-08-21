@@ -1,2 +1,2 @@
 # JavaScript Stack Technologies (JSST).
-##Стэк технологий JavaScript
+## Стэк технологий JavaScript
